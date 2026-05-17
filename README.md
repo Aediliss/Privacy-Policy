@@ -99,7 +99,7 @@ We may update this privacy policy from time to time to reflect changes in the ap
 
 ## Contact Us
 
-If you have any questions or concerns about this privacy policy or our data practices, please reach out via Mad Tower Support. We aim to respond to all privacy-related inquiries within 30 days.
+If you have any questions or concerns about this privacy policy or our data practices, please reach out via github.com/Aediliss. We aim to respond to all privacy-related inquiries within 30 days.
 
 ---
 
